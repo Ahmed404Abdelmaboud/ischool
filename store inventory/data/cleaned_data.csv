@@ -1,0 +1,8 @@
+Order_ID,Product,Category,Price,Quantity,Date,Revenue
+101,Laptop,Electronics,1200.0,1.0,1/1/2024,1200.0
+102,Mouse,Electronics,25.0,2.0,1/2/2024,50.0
+103,Keyboard,Electronics,50.0,1.0,1/2/2024,50.0
+104,Desk Chair,Furniture,150.0,3.0,1/3/2024,450.0
+105,Monitor,Electronics,300.0,0.0,1/4/2024,0.0
+106,Lamp,Furniture,40.0,2.0,1/5/2024,80.0
+107,Headphones,Electronics,294.1666666666667,1.0,1/6/2024,294.1666666666667
