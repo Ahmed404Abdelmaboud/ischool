@@ -1,0 +1,16 @@
+Day,Drink,Price,Units_Sold,Revenue
+1,Espresso,2.5,45,112.5
+2,Latte,3.5,60,210
+3,Cappuccino,3,50,150
+4,Americano,2,35,70
+5,Mocha,4,40,160
+6,Espresso,2.5,48,120
+7,Latte,3.5,62,217
+8,Cappuccino,3,52,156
+9,Americano,2,38,76
+10,Mocha,4,42,168
+11,Espresso,2.5,50,125
+12,Latte,3.5,65,227.5
+13,Cappuccino,3,55,165
+14,Americano,2,40,80
+15,Mocha,4,45,180
