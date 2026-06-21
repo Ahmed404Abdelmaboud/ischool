@@ -1,0 +1,32 @@
+Visitor_ID,Name,Planet,Age,Favorite_Food
+101,Zorx,Mars,120,Pizza
+102,Niko, mars,95,Burger
+103,Luna,Jupiter,,Sushi
+104,Xeno,SATURN,150,
+105,Nova,saturn,,Tacos
+106,Vega,Mars,110,Pizza
+107,Orion,JUPITER,140,Noodles
+108,Astra, Neptune,105,Burger
+109,Cosmo,neptune,,Pizza
+110,Zen,MARS,125,Sushi
+111,Lux,Saturn,135,
+112,Rex,Jupiter,145,Tacos
+113,Kira,mars,,Burger
+114,Blaze,NEPTUNE,130,Pizza
+115,Echo,Jupiter,115,Noodles
+116,Nova,saturn,,Tacos
+103,Luna,Jupiter,,Sushi
+117,Atlas,Mars,118,Pizza
+118,Solar, Neptune,122,
+119,Pixel,MARS,,Burger
+120,Stella,JUPITER,132,Sushi
+121,Vortex,mars,108,Pizza
+122,NovaX,SATURN,142,Burger
+123,Zara,jupiter,,Tacos
+124,Cypher,Neptune,128,
+125,Orca,MARS,138,Noodles
+126,Flare,saturn,,Pizza
+127,Comet,JUPITER,111,Burger
+128,Galaxy, NEPTUNE,136,Sushi
+129,Phoenix,mars,,Tacos
+130,Nebula,SATURN,147,
