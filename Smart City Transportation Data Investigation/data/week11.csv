@@ -1,0 +1,11 @@
+Route_ID,Transport_Type,Station,Passengers,Delay_Minutes,Trip_Duration,Day_Type
+R101,Bus,Central,120,15,40,Weekday
+R102,metro,Downtown,300,2,25,Weekday
+R103,Bus,Central,,20,45,Weekday
+R104,Tram,Riverside,80,5,30,Weekend
+R104,Tram,Riverside,80,5,30,Weekend
+R105,Metro,Downtown,280,,24,Weekday
+R106,Bus,Airport,90,25,50,Weekday
+R107,tram,Riverside,75,4,28,Weekend
+R108,Metro,Central,350,1,20,Weekday
+R109,Bus,Uptown,110,18,42,weekday
