@@ -1,0 +1,9 @@
+CustomerID,Name,Age,City,JoinDate,Membership
+1001,Sara Ahmed,28,Cairo,2025-11-01,Gold
+1002,Karim Hassan,35,Giza,2025-11-05,Silver
+1003,Nada Samir,22,Alex,2025-11-10,Basic
+1004,Adel Mostafa,45,Cairo,2025-11-15,Gold
+1005,Rania Tarek,31,Giza,2025-11-20,Silver
+1006,Yara Youssef,26,Alex,2025-12-01,Basic
+1007,Hisham Ali,40,Cairo,2025-12-05,Gold
+1008,Dina Mohamed,33,Giza,2025-12-10,Silver
