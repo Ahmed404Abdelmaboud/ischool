@@ -1,0 +1,8 @@
+PatientID,Name,Age,City,Insurance,AdmissionDate
+201,Mohamed Nasser,45,Cairo,National,2026-01-05
+202,Fatma Ibrahim,32,Giza,Private,2026-01-08
+203,Ahmed Sayed,60,Alex,National,2026-01-10
+204,Nour Ali,28,Cairo,Private,2026-01-12
+205,Khaled Youssef,55,Giza,National,2026-01-15
+206,Huda Mahmoud,38,Cairo,National,2026-01-18
+207,Amira Taha,42,Alex,Private,2026-02-01
